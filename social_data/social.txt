@@ -1,0 +1,23 @@
+email-
+	name- Team Tathastu
+	id- licandstarinsurance@gmail.com
+	password- insurancebytathastu
+
+facebook-
+	username- Insuranceby TeamTathastu
+	password- teamtathastu214
+
+instagram-
+	username- insurance_by_team_tathastu 
+	password- teamtathastu214
+
+youtube-
+	name- @TeamTathastu
+
+linkedin-
+	name-Team Tathastu LIC and Star Health Recruitment Point
+	password- teamtathastu214
+	
+twitter-
+	username- @TeamTathastu05
+	password- teamtathastu214
